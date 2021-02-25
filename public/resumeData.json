@@ -1,21 +1,21 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "name":"James Coholan",
+    "description":"Music Entraprenuer",
+    "image":"profilepic.png",
+    "bio":"Born in Toronto, moved to LA for college.",
+    "contactmessage":"Please contact me below!.",
+    "email": "jamescoholan@gmail.com",
+    "phone": "310-907-6639",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"LA",
+      "state":"CA",
+      "zip": "90019"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "www.sybcreative.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
@@ -46,10 +46,10 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I am an excellent frontend mobiel and web app developer. SKilled cloud expert. Media producer across music film and tv. BRand Marketer.",
     "education":[
       {
-        "school":"University?",
+        "school":"Occidental College",
         "degree":"Masters in Beer tasting",
         "graduated":"April 2007",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
